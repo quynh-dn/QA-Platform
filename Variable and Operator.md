@@ -1,0 +1,18 @@
+# Định nghĩa các control 
+---
+### Variable
+
+| Variable | Định nghĩa | Chi tiết |
+| ------ | ------ | ------ |
+| ![newVariable](https://user-images.githubusercontent.com/105435351/196144955-28ebb741-98fe-4e59-b76a-3a7274966d34.png) | Khai báo biến mới | [New variable](asc) |
+| ![Assign Value](https://user-images.githubusercontent.com/105435351/196145461-e3db2aca-bdaa-415a-bb69-9e3ab625ea76.png) | Sao chép giá trị của một biến  | [Assign Value](asc) |
+| ![toantu-](https://user-images.githubusercontent.com/105435351/196146989-b492a469-33e3-40fd-beb6-8449881e0ceb.png) ![toantu+](https://user-images.githubusercontent.com/105435351/196147021-e676cbcc-8b08-4445-8204-cf22c24c6187.png) ![toantunhan](https://user-images.githubusercontent.com/105435351/196147074-bcf184bb-31c7-4d43-91d9-857f08c1dc4a.png)  ![toantuchia](https://user-images.githubusercontent.com/105435351/196147044-6d936525-a88e-437f-9243-1f0ac0ac0425.png) | Các toán tử số học: cộng(+), trừ(-), nhân(*), chia(/)  | [Các toán tử số học](asc) |
+
+### Operator
+
+| Operator | Định nghĩa | Chi tiết |
+| ------ | ------ | ------ |
+| ![nhohon](https://user-images.githubusercontent.com/105435351/196149431-74c80fe4-162a-4066-b94b-404bc2cce7e9.png) ![nhohonHoacbang](https://user-images.githubusercontent.com/105435351/196149473-df9bc889-b2a5-46c4-acd7-09daeb1f3c90.png) ![lonhon](https://user-images.githubusercontent.com/105435351/196149494-9013c9e4-e859-4c3b-b9ec-744ae0431181.png) ![lonhonHoacbang](https://user-images.githubusercontent.com/105435351/196149522-3e376672-a2ce-4159-85af-a5a81c7f4b7d.png) ![bangnhau](https://user-images.githubusercontent.com/105435351/196149554-1fcd8d21-c4b5-4e2c-ae94-c3587e32f985.png) ![and](https://user-images.githubusercontent.com/105435351/196149662-1020a6a9-57cf-4fdb-bf57-31128400a962.png) ![or](https://user-images.githubusercontent.com/105435351/196149683-259fcec6-8e39-4786-9429-d077c5e686be.png) | Các toán tử quan hệ như: >, >=, <, <=, = =, != Hay toán tử logic: AND, OR | [Các toán tử quan hệ](asc) |
+| ![contains](https://user-images.githubusercontent.com/105435351/196149767-0d56fed7-f126-4df2-abeb-34b3d66a66ca.png) | Sử dụng để xác định có hay không chuỗi này tồn tại trong một chuỗi khác. | [Các toán tử quan hệ](asc) |
+| ![matches](https://user-images.githubusercontent.com/105435351/196149782-8405651a-ae70-4761-b51a-d2d6547f987c.png) | Sử dụng để tìm chuỗi trong chuỗi (tìm chuỗi này trong một chuỗi khác) | [Các toán tử quan hệ](asc) |
+
