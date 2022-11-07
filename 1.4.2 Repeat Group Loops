@@ -1,4 +1,4 @@
 # Repeat Group Loops
 ####### Lặp lại một hoặc một nhóm các bước bằng cách sử dụng: vòng lặp while ... do ... & vòng lặp for.
 
-Tính nă
+Tính năng lặp lại cho phép thực hiện lặp lại một bước hoặc một nhóm bước nhiều lần theo một tập hợp các điều kiện được xác định trước
