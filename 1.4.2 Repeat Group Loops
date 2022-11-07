@@ -1,4 +1,11 @@
 # Repeat Group Loops
-####### Lặp lại một hoặc một nhóm các bước bằng cách sử dụng: vòng lặp while ... do ... & vòng lặp for.
+####### Lặp lại một hoặc một nhóm các bước bằng cách sử dụng: vòng lặp while  & vòng lặp forEach.
 
 Tính năng lặp lại cho phép thực hiện lặp lại một bước hoặc một nhóm bước nhiều lần theo một tập hợp các điều kiện được xác định trước
+
+### Sử dụng vòng lặp while
+
+Vòng lặp phần tử While cho phép bạn chỉ định có hay không chạy cùng một tập hợp các hành động / xác nhận tùy thuộc vào việc phần tử được chỉ định có
+tồn tại (hoặc không tồn tại) trên trang hay không. 
+
+ Để định cấu hình vòng lặp “While”:
