@@ -48,7 +48,7 @@
 
 #### 4	KẾT QUẢ
 
-##### 4.1	[Tại sao test case chạy không thành công](https://github.com/quynh-dn/QA-Platform/blob/main/3.4%20Chay%20test%20case%20voi%20nhieu%20bo%20du%20lieu.md)
+##### 4.1	[Tại sao test case chạy không thành công](https://github.com/quynh-dn/QA-Platform/blob/main/4.1%20Tai%20sao%20test%20case%20chay%20khong%20thanh%20cong.md)
 
 ##### 4.2	[Màn hình chạy thực thi](https://github.com/quynh-dn/QA-Platform/blob/main/4.2%20Man%20hinh%20chay%20thuc%20thi.md)
 
