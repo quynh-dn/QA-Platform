@@ -6,7 +6,7 @@
 
 1.2	[Đăng nhập](https://github.com/quynh-dn/QA-Platform/blob/main/1.2%20Dang%20nhap.md  )
 
-1.3	Định nghĩa controls
+##### 1.3	Định nghĩa controls
 
 1.3.1	[Action](https://github.com/quynh-dn/QA-Platform/blob/main/1.3.1%20action.md)
 
@@ -14,7 +14,7 @@
 
 1.3.3	[Variable and Operator](https://github.com/quynh-dn/QA-Platform/blob/main/1.3.3%20Variable%20and%20Operator.md)
 
-1.4	Cấu hình
+##### 1.4	Cấu hình
 
 1.4.1	[Cấu hình các bước thuộc tính](https://github.com/quynh-dn/QA-Platform/blob/main/1.4.1%20Cau%20hinh%20cac%20buoc%20thuoc%20tinh.md)
 
@@ -26,8 +26,7 @@
 
 2.1	[Tạo mới Test case](https://github.com/quynh-dn/QA-Platform/blob/main/2.1Tao%20moi%20Test%20case.md)
 
-2.2	[Thêm chỉnh sửa thuộc tính của một bước cấu hình](https://github.com/quynh-dn/QA-
-Platform/blob/main/2.2Them%20chinh%20sua%20thuoc%20tinh%20cua%20mot%20buoc%20cau%20hinh.md)
+2.2	[Thêm chỉnh sửa thuộc tính của một bước cấu hình](https://github.com/quynh-dn/QA-Platform/blob/main/2.2Them%20chinh%20sua%20thuoc%20tinh%20cua%20mot%20buoc%20cau%20hinh.md)
 
 2.3	[Truyền parameter](https://github.com/quynh-dn/QA-Platform/blob/main/2.3Truyen%20Parameter.md)
 
@@ -46,7 +45,7 @@ https://github.com/quynh-dn/QA-Platform/blob/main/2.5%20Shared%20Steps.md)
 
 3.3	[Schedule Date](https://github.com/quynh-dn/QA-Platform/blob/main/3.3%20Schedule%20Date.md)
 
-3.4	Chạy Test case với nhiều bộ dữ liệu
+3.4	[Chạy Test case với nhiều bộ dữ liệu](https://github.com/quynh-dn/QA-Platform/blob/main/3.4%20Chay%20test%20case%20voi%20nhieu%20bo%20du%20lieu.md)
 
 #### 4	KẾT QUẢ
 
@@ -108,7 +107,6 @@ https://github.com/quynh-dn/QA-Platform/blob/main/2.5%20Shared%20Steps.md)
 
 9.1	[Parameter cho project](https://github.com/quynh-dn/QA-Platform/blob/main/9.1%20Parameter%20cho%20project.md)
 
-9.2	[Sử dụng Random Type để nhập dữ liệu đầu vào](https://github.com/quynh-dn/QA-
-Platform/blob/main/9.2%20Ch%E1%BA%A1y%20test%20case%20v%E1%BB%9Bi%20d%E1%BB%AF%20li%E1%BB%87u%20c%C3%B3%20s%E1%BA%B5n.md)
+9.2	[Sử dụng Random Type để nhập dữ liệu đầu vào](https://github.com/quynh-dn/QA-Platform/blob/main/9.2%20Ch%E1%BA%A1y%20test%20case%20v%E1%BB%9Bi%20d%E1%BB%AF%20li%E1%BB%87u%20c%C3%B3%20s%E1%BA%B5n.md)
 
 9.3	[Giới thiệu về X-Path (XML X-Path Language)](https://github.com/quynh-dn/QA-Platform/blob/main/9.3%20Gi%E1%BB%9Bi%20thi%E1%BB%87u%20v%E1%BB%81%20X-Path%20(XML%20Path%20Language).md)
