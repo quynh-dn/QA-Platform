@@ -1,6 +1,6 @@
 # LLQ QA-Platform
 
-#### 1	TỔNG QUAN
+### 1	TỔNG QUAN
 
 ##### 1.1	[HELP TO TEST – QA PALTFORM](https://github.com/quynh-dn/QA-Platform/blob/main/1.1%20HELP%20TO%20TEST%20-%20QA%20PLATFORM.md)
 
@@ -22,7 +22,7 @@
 
 1.4.3	[Thêm điều kiện cho test case](https://github.com/quynh-dn/QA-Platform/blob/main/1.4.3%20Cach%20cau%20hinh%20dieu%20kien.md)
 
-#### 2	CẤU HÌNH TEST CASE
+### 2	CẤU HÌNH TEST CASE
 
 ##### 2.1	[Tạo mới Test case](https://github.com/quynh-dn/QA-Platform/blob/main/2.1Tao%20moi%20Test%20case.md)
 
@@ -36,7 +36,7 @@
 
 ##### 2.6	[Play Test case](https://github.com/quynh-dn/QA-Platform/blob/main/2.6Play%20test%20case.md)
 
-#### 3	RUNNING A TEST CASE
+### 3	RUNNING A TEST CASE
 
 ##### 3.1	[Tổng quan về Running Test cases](https://github.com/quynh-dn/QA-Platform/blob/main/3.1Tong%20quan%20ve%20Running%20Test%20cases.md)
 
@@ -46,7 +46,7 @@
 
 ##### 3.4	[Chạy Test case với nhiều bộ dữ liệu](https://github.com/quynh-dn/QA-Platform/blob/main/3.4%20Chay%20test%20case%20voi%20nhieu%20bo%20du%20lieu.md)
 
-#### 4	KẾT QUẢ
+### 4	KẾT QUẢ
 
 ##### 4.1	[Tại sao test case chạy không thành công](https://github.com/quynh-dn/QA-Platform/blob/main/4.1%20Tai%20sao%20test%20case%20chay%20khong%20thanh%20cong.md)
 
@@ -56,7 +56,7 @@
 
 ##### 4.4	[Report Bug](https://github.com/quynh-dn/QA-Platform/blob/main/4.4%20Report%20Bug.md)
 
-#### 5	TEST LIST
+### 5	TEST LIST
 
 ##### 5.1	[Quản lý Test case](https://github.com/quynh-dn/QA-Platform/blob/main/5.1Tests.md)
 
@@ -68,13 +68,13 @@
 
 ##### 5.5	[Gắn label cho Test case](https://github.com/quynh-dn/QA-Platform/blob/main/5.5%20Gan%20label%20cho%20test%20case.md)
 
-#### 6	FILE
+### 6	FILE
 
 ##### 6.1	[Quản lý File](https://github.com/quynh-dn/QA-Platform/blob/main/6.1%20File.md)
 
 ##### 6.2	[Quản lý File Type](https://github.com/quynh-dn/QA-Platform/blob/main/6.2%20File%20type.md)
 
-#### 7	THIẾT LẬP TEST PROJECT
+### 7	THIẾT LẬP TEST PROJECT
 
 ##### 7.1	[Quản lý User (Project Teammates)](https://github.com/quynh-dn/QA-Platform/blob/main/7.1%20User%20(Project%20Teammates).md)
 
@@ -86,7 +86,7 @@
 
 ##### 7.5	[Quản lý Label](https://github.com/quynh-dn/QA-Platform/blob/main/7.5%20Label.md)
 
-#### 8	THIẾT LẬP CHUNG TOÀN HỆ THỐNG – PROJECT SETTING 
+### 8	THIẾT LẬP CHUNG TOÀN HỆ THỐNG – PROJECT SETTING 
 
 ##### 8.1	[Quản lý Project](https://github.com/quynh-dn/QA-Platform/blob/main/8.1%20Projects.md)
 
@@ -102,7 +102,7 @@
 
 ##### 8.7	[Quản lý Random Type](https://github.com/quynh-dn/QA-Platform/blob/main/8.7%20Random%20Type.md)
 
-#### 9	NÂNG CAO
+### 9	NÂNG CAO
 
 ##### 9.1	[Parameter cho project](https://github.com/quynh-dn/QA-Platform/blob/main/9.1%20Parameter%20cho%20project.md)
 
